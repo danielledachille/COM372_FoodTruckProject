@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+#events {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+#tagline {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+#info {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+  border: 1px black dashed;
+  width: 400px;
+  padding: auto;
+  margin: 20px;
+  display: inline;
+  display: block;
+  display: inline-block;
+  position: relative;
+  left: 410px;
+
+}
